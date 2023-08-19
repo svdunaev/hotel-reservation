@@ -17,7 +17,7 @@ https://www.mongodb.com/docs/drivers/go/current/
 
 Installing MongoDB client
 ```
-go get https://go.mongodb.org/mongo-driver/mongo/
+go get go.mongodb.org/mongo-driver/mongo
 ```
 
 ### gofiber
